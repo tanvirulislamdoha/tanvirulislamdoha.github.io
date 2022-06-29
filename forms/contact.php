@@ -7,7 +7,7 @@
  $message = $_REQUEST['message'];
 
  $to = "tanvirulislam857@gmail.com";
- $txt = "Name = " . $name . "\r\n Email = " . $email."\r\n Subject = ".$subject.$email."\r\n message = ".$message;
+ $txt = "Name = " . $name . "\r\n Email = " . $email."\r\n Subject = ".$subject."\r\n message = ".$message;
 
  $headers = "From : noreply@tanvirulislamdoha.io". "\r\n" . "CC: somebodyelse@example.com";
 
